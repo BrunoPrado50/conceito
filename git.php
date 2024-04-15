@@ -1,8 +1,9 @@
 <?php 
-$soma1=2;
-$soma2=3;
-$soma = $soma1 + $soma2;
-
+$num1=2;
+$num2=3;
+$soma = $num1 + $num2;
+$subtracao = $num1 - $num2;
+$multiplicacao = $num1 * $num2;
 ?>
 <h1> 
     
